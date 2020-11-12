@@ -1,1 +1,3 @@
 adding the file from github
+adding more info from local
+we  are cloning 
